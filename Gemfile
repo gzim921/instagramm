@@ -27,6 +27,7 @@ gem 'haml'
 gem 'simple_form'
 gem 'bootstrap-sass'
 gem 'masonry-rails'
+gem 'acts_as_votable', '~> 0.13.1'
 # Use Active Storage variant
 # gem 'image_processing', '~> 1.2'
 
