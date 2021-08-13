@@ -26,6 +26,7 @@ gem 'devise', '~> 4.8'
 gem 'haml'
 gem 'simple_form'
 gem 'bootstrap-sass'
+gem 'masonry-rails'
 # Use Active Storage variant
 # gem 'image_processing', '~> 1.2'
 

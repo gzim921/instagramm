@@ -5,11 +5,13 @@
 
 import Rails from "@rails/ujs"
 import Bootstrap from "bootstrap-sprockets"
+import Masonry from "masonry/jquery.masonry"
 import Turbolinks from "turbolinks"
 import * as ActiveStorage from "@rails/activestorage"
 import "channels"
 
 Rails.start()
 Bootstrap.start()
+Masonry.start()
 Turbolinks.start()
 ActiveStorage.start()
